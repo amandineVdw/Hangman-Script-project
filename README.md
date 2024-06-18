@@ -3,6 +3,7 @@
 ## Description
 
 Bienvenue sur mon projet de jeu du pendu ! Ce jeu classique vous permet de deviner un mot caché en proposant des lettres. À chaque lettre incorrecte, une partie du dessin du pendu est ajoutée. Le jeu se termine lorsque le mot est trouvé ou lorsque le pendu est complété.
+
 ![Hangman](https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif)
 
 ## Fonctionnalités
