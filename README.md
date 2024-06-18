@@ -42,6 +42,6 @@ Pour jouer localement, suivez ces étapes :
 J'apprécie toute aide pour améliorer ce projet ! N'hésitez pas à soumettre une pull request ou à ouvrir une issue pour discuter des modifications.
 
 ## Resources
-* https://hangmanwordgame.com/?fca=1&success=0#/[example]
+* https://hangmanwordgame.com/?fca=1&success=0#/
 
 Merci d'avoir pris le temps de découvrir mon projet ! J'espère que vous apprécierez y jouer autant que j'ai apprécié le coder.
